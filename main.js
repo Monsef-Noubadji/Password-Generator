@@ -13,5 +13,5 @@ function copyPwd(){
   var copyPswd = document.getElementById("pwd");
   copyPswd.select();
   document.execCommand("copy");
-  alert("Password Copied successfully !")
+  alert("Password Copied successfully !");
 }
