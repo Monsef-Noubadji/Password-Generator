@@ -33,7 +33,7 @@ p{
   font-weight:100;
   text-align:center;
 }
-[type=text]{
+[type=text],[type=text]:focus{
   width:100%;
   height:5vh;
   border-right:none;
